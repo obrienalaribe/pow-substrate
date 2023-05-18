@@ -21,4 +21,4 @@ In the left panel of the UI, switch to the `Local Node` endpoint.
 
 ## More Help
 
-This code will be used primarily as an in-class activity that is instructor led, so just wait for details in class.
+This code will be used primarily as an in-class activity that is instructor led, so just wait for details in class.# pow-substrate
